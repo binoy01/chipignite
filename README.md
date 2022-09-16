@@ -1,1 +1,1 @@
-# Single layer neural network with 16 neorons
+# Single layer neural network with 16 neuorons
